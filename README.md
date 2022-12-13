@@ -11,7 +11,7 @@ AiryFi is an open-source portable sensor that can deliver the quantity and mass 
 
 ## Documentation
 
-* [SquaryPi Software](https://github.com/sbcshop/SquaryPi)
+* [AiryFi Software](https://github.com/sbcshop/AiryFi_Software)
 * [Raspberry Pi Pico Getting Started with Micropython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
 * [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [RP2040 Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)
