@@ -21,7 +21,7 @@ AiryFi is an open-source portable sensor that can deliver the quantity and mass 
 
 ## Related Products
 
-* [SquaryFi](https://shop.sb-components.co.uk/collections/raspberry-pi-pico/products/squary?variant=40443840921683) - ESP8266-12E version of SquaryPi
+* [SquaryFi](https://shop.sb-components.co.uk/collections/raspberry-pi-pico/products/squary?variant=40443840921683)
 
  ![SquaryFi](https://cdn.shopify.com/s/files/1/1217/2104/products/2_12d19ffa-bcda-47bf-8ea9-bb76fc40aee3.png?v=1670307456&width=300)
  
