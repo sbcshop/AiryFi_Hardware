@@ -39,7 +39,7 @@ AiryFi is an open-source portable sensor that can deliver the quantity and mass 
 
 ## Product License
 
-This is ***open source*** product. Kindly check LICENSE.md file for more informnation.
+This is ***open source*** product. Kindly check LICENSE.md file for more information.
 
 Please contact [support@sb-components.co.uk](support@sb-components.co.uk) for technical support.
 <p align="center">
